@@ -1,0 +1,11 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.heading{
+    align-self: center;
+}
+#name{
+    color: aliceblue;
+    font-size: large;
+    font-weight: bolder;
+    font-size: larger;
+}
